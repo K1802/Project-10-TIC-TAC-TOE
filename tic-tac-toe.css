@@ -1,0 +1,16 @@
+body {
+  width: auto;
+  height: 600px;
+  position: relative;
+}
+
+.board{
+  position: absolute;
+  width: 550px;
+  height: 550px;
+
+  left: 350px;
+
+  background-color: white;
+  border: 2px solid black;
+}
